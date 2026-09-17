@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频提示词导演"
+  short_description: "把剧情与参考图转成细节充分、表演具象、运镜合理且可直接复制的视频提示词"
+  default_prompt: "使用 $video-prompt-director，把这段剧情和参考图写成完整中文视频生成提示词，检查表演、空间和前后状态。"
